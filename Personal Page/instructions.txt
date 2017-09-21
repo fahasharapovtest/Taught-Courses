@@ -1,0 +1,11 @@
+Note:
+1. Create 3 pages.
+2. Any page should have 1 link to another web page.
+3. Use any content from the Internet for the text.
+
+Additional Instructions. 
+4. Find out how to change the size of the <hr> element.
+5. Find out how to change the color of the link. Hint: the code needs to be inserted into the body element.
+6. Find out how to change the color of the visited link. Hint: the code needs to be inserted into the body element.
+
+Feel free to ask if you have any questions!
