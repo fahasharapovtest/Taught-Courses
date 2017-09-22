@@ -1,0 +1,42 @@
+
+body {
+	background-image: url("../img/bg.jpg");
+	background-repeat: repeat;
+	font-size: 12px;
+	font-family: Verdana;
+	color: black;
+}
+
+h1 {
+	color: red;
+	font-family: Comic Sans MS;
+	text-align: center;
+	font-size: 45px;
+	text-shadow: 5px 5px 3px gray;
+}
+
+td.description{
+	min-width: 450px;
+	max-width: 650px;
+}
+
+tr.title {
+	color: blue;
+	font-size: 15px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.border{
+	width: 75px;
+	height: 28px;
+	background: #71f442;
+	border-radius: 75px;
+	text-align: center;
+	font-size: 20px;
+	text-shadow: 3px 3px 3px gray;
+	color: blue;
+	font-weight: bold;
+	
+}
